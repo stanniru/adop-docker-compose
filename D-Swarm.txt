@@ -1,0 +1,1 @@
+Testing Docker Swarm cluster for ADOP in my local
